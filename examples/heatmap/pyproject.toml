@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "geoarrow-example-point"
+version = "0.1.0"
+description = ""
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+lonboard = "^0.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
